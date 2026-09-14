@@ -1,0 +1,36 @@
+{
+  "name": "Godot 3D Game Source",
+  "identifier": "com.sadsion.altstore-source",
+  "subtitle": "Official AltStore updates for Godot 3D Game",
+  "description": "3D mobile action game with touch controls, virtual analog joystick, and dynamic combat system.",
+  "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
+  "website": "https://github.com/sadsion2026/godot-3d-game-releases",
+  "tintColor": "#00d4ff",
+  "featuredApps": [
+    "com.sadsion.threedgame"
+  ],
+  "apps": [
+    {
+      "name": "3D Game",
+      "bundleIdentifier": "com.sadsion.threedgame",
+      "developerName": "Aymen Hussein",
+      "subtitle": "3D Action Game with Virtual Joystick",
+      "localizedDescription": "Exciting 3D action game featuring virtual analog joystick, smooth platforming, combat mechanics, and full iPhone landscape optimization.",
+      "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
+      "tintColor": "#00d4ff",
+      "version": "1.1.0",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.1.0/3DGame.ipa",
+      "size": 121372016,
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.1.0/3DGame.ipa",
+          "size": 121372016,
+          "localizedDescription": "Added Virtual Joystick, fixed touch attack bug, locked landscape orientation, and enlarged touch buttons."
+        }
+      ]
+    }
+  ]
+}
