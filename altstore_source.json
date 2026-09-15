@@ -18,11 +18,21 @@
       "localizedDescription": "Exciting 3D action game featuring virtual analog joystick, smooth platforming, combat mechanics, and full iPhone landscape optimization.",
       "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
       "tintColor": "#00d4ff",
-      "version": "1.8.1",
+      "version": "1.8.2",
       "versionDate": "2026-09-14",
-      "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.1/3DGame.ipa",
-      "size": 138707570,
+      "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.2/3DGame.ipa",
+      "size": 53821555,
       "versions": [
+        {
+          "version": "1.8.2",
+          "buildVersion": "1.8.2",
+          "date": "2026-09-14T00:00:00.0000000Z",
+          "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.2/3DGame.ipa",
+          "size": 53821555,
+          "localizedDescription": "Ultra-lightweight v1.8.2 release with instant download and full screen support.",
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
+        },
         {
           "version": "1.8.1",
           "date": "2026-09-14",
@@ -107,7 +117,10 @@
           "size": 121372016,
           "localizedDescription": "Added Virtual Joystick, fixed touch attack bug, locked landscape orientation, and enlarged touch buttons."
         }
-      ]
+      ],
+      "buildVersion": "1.8.2",
+      "versionDescription": "Ultra-lightweight v1.8.2 release with instant download and full screen support.",
+      "beta": false
     }
   ]
 }
