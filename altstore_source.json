@@ -19,34 +19,34 @@
       "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
       "tintColor": "#00d4ff",
       "version": "1.8.0",
-      "versionDate": "2026-09-15T21:58:55+03:00",
+      "versionDate": "2026-09-15",
       "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.0/3DGame.ipa",
       "size": 133675394,
       "versions": [
         {
           "version": "1.8.0",
-          "date": "2026-09-15T21:58:55+03:00",
+          "date": "2026-09-15",
           "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.0/3DGame.ipa",
           "size": 133675394,
           "localizedDescription": "Update 1.8.0 with latest gameplay and controls."
         },
         {
           "version": "1.7.0",
-          "date": "2026-09-15T18:47:10+03:00",
+          "date": "2026-09-15",
           "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.7.0/3DGame.ipa",
           "size": 133789813,
           "localizedDescription": "Update 1.7.0 with latest gameplay and controls."
         },
         {
           "version": "1.6.0",
-          "date": "2026-09-15T16:45:35+03:00",
+          "date": "2026-09-15",
           "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.6.0/3DGame.ipa",
           "size": 133270625,
           "localizedDescription": "Update 1.6.0 with latest gameplay and controls."
         },
         {
           "version": "1.5.0",
-          "date": "2026-09-15T03:21:55+03:00",
+          "date": "2026-09-15",
           "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.5.0/3DGame.ipa",
           "size": 133267892,
           "localizedDescription": "Update 1.5.0 with latest gameplay and controls."
