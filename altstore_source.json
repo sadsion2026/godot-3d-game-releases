@@ -18,11 +18,21 @@
       "localizedDescription": "Exciting 3D action game featuring virtual analog joystick, smooth platforming, combat mechanics, and full iPhone landscape optimization.",
       "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
       "tintColor": "#00d4ff",
-      "version": "1.8.8",
-      "versionDate": "2026-09-16T09:16:38Z",
-      "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.8/3DGame.ipa",
-      "size": 53832282,
+      "version": "1.8.9",
+      "versionDate": "2026-09-16T09:59:54Z",
+      "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.9/3DGame.ipa",
+      "size": 123842271,
       "versions": [
+        {
+          "version": "1.8.9",
+          "buildVersion": "1.8.9",
+          "date": "2026-09-16T09:59:54Z",
+          "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.8.9/3DGame.ipa",
+          "size": 123842271,
+          "localizedDescription": "v1.8.9: Fixed Level 1 menu launch, streamlined elements, and added massive hardcore Level 2!",
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
+        },
         {
           "version": "1.8.8",
           "buildVersion": "1.8.8",
@@ -178,8 +188,8 @@
           "localizedDescription": "Added Virtual Joystick, fixed touch attack bug, locked landscape orientation, and enlarged touch buttons."
         }
       ],
-      "buildVersion": "1.8.8",
-      "versionDescription": "v1.8.8: Fixed Level 1 menu launch, streamlined elements, and added massive hardcore Level 2!",
+      "buildVersion": "1.8.9",
+      "versionDescription": "v1.8.9: Fixed Level 1 menu launch, streamlined elements, and added massive hardcore Level 2!",
       "beta": false
     }
   ]
