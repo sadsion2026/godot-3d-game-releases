@@ -19,16 +19,16 @@
       "iconURL": "https://raw.githubusercontent.com/sadsion2026/godot-3d-game-releases/main/icon.png",
       "tintColor": "#00d4ff",
       "version": "1.9.6",
-      "versionDate": "2026-09-18T12:58:59Z",
+      "versionDate": "2026-09-18T13:27:59Z",
       "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.9.6/3DGame.ipa",
-      "size": 179337793,
+      "size": 179338293,
       "versions": [
         {
           "version": "1.9.6",
           "buildVersion": "1.9.6",
-          "date": "2026-09-18T12:58:59Z",
+          "date": "2026-09-18T13:27:59Z",
           "downloadURL": "https://github.com/sadsion2026/godot-3d-game-releases/releases/download/v1.9.6/3DGame.ipa",
-          "size": 179337793,
+          "size": 179338293,
           "localizedDescription": "v1.9.6: Fix settings sliders & toggles, reduce modal transparency with dark backdrop, and greatly enlarge main menu buttons!",
           "minOSVersion": "12.0",
           "maxOSVersion": "99.0"
